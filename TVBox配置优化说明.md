@@ -9,7 +9,7 @@
 - ✅ **多源候选策略**：优先使用国内稳定源（gitcode.net, gitee.com）
 - ✅ **SSL 兼容性**：优化请求头，减少 SSL handshake 错误
 - ✅ **智能回退**：多个备选 jar，避免单点失败
-- ✅ **连接优化**：使用 `Connection: close` 避免连接复用问题
+- ✅ **连接优化**：使用 `Connection: close` 避免连接复用问题 
 
 #### 2. **新增配置模式**
 
